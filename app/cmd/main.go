@@ -2,8 +2,8 @@ package main
 
 import (
 	"log/slog"
-	"main/internal/config"
-	"main/pkg/utils"
+	"main/app/internal/config"
+	"main/app/pkg/utils"
 	"os"
 )
 

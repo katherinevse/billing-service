@@ -3,7 +3,7 @@ package utils
 import (
 	"gopkg.in/yaml.v2"
 	"log"
-	"main/internal/config"
+	"main/app/internal/config"
 	"os"
 )
 
