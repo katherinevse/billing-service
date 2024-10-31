@@ -1,0 +1,19 @@
+db:
+  user: "postgres"
+  host: "localhost"
+  port: "5432"
+  name: "homelisting"
+  password: "postgres"
+
+app:
+  host: "localhost"
+  domain: "localhost"
+  port: "8080"
+  scheme: "http"
+
+logger:
+  level: "debug" # "info", "error"
+
+kafka:
+  brokers:
+    - "localhost:9092
